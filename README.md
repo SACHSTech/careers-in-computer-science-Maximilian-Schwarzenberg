@@ -17,58 +17,60 @@ The required education to become a professional cybersecurity analyst is a bache
 ## Required technical and non-technical skills
 Some of the required technical skills are: 
 * Scripting and programming  
-description
 * Controls and framework  
-description
 * Threat analysis  
-description
 * Incident response  
-description
 * Security control  
-description
 * Various operating systems (primarily linux)  
-description
 * Knowledge on the different threats  
-description
 
 Some of the non-technical skills can include: 
 * Effective communication  
-description
 * Collaboration with others  
-description
 * Working under pressure  
-description
 * Being able to adapt to new situations  
-description
 * Critical thinking  
-description
 * Drawing conclusions  
-description
 * Asking the right questions  
-description
 * Assessing data  
-description
 
 
 ## Examples of an Entry Level, Average, and High Level jobs with salary Range
-Entry Level  
-* description  
-
-Average  
-* description
-
-High Level  
-* description
+| _Level_ | _Salary_                 | _Description_                                                                                                                                                                                                                                                                                                        |
+|---------|--------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Entry   | $59,000 - $100,000 /year | Primary role is to protect the firm from cyberattacks by monitoring our systems and evaluating threats as they arise.                                                                                                                                                                                                |
+| Average | $71,000 - $110,000 /year | As a Cybersecurity Analyst, you will be applying and improving the internal cybersecurity program. With the support of the wider IT team, you will work directly with internal teams and vendors to seek ways to continuously enhance and improve.                                                                   |
+| High    | $150,000 /year           | As a Senior Cyber Security Analyst, you’ll be a key contributor to our Security Operations Center (SOC) team which specializes in detecting and responding to security incidents. This job is an exciting opportunity work with real security threats and work with clients to mitigate and respond to such threats. |
 
 ## College and/or universities that offers entrance into a related program 
 Some of the entrance requirements are:  
-* Here
+* Grade Range: Mid- to high 80s
+* Ontario Secondary School Diploma (OSSD)
+* ENG4U (Francophone applicants may present FRA4U, FEF4U or FIF4U)
+* SCH4U or SPH4U
+* MHF4U
+* Another 4U Math (MCV4U recommended)
+* 2 additional 4U/M courses
+* Minimum math average of 75%
+* No math grade below 65%
+
 
 A sample description of first year courses taken are:  
-* Here
+| _Code_              | _Course_                                    | _Description_                                                                                                                                                                                                                                                                           |
+|-------------------|-------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| LE/EECS 1001 1.00 | Research Directions in Computing          | Introduction to research directions within the department and more broadly within the field                                                                                                                                                                                           |
+| LE/EECS 1012 3.00 | Net-Centric Introduction to Computing     | Providing a first exposure to event-driven programming, teaching students a set of computing skills (including reasoning about algorithms, tracing programs, test-driven development, unit testing), and providing an introduction to computing within a mobile, net-centric context. |
+| LE/EECS 1019 3.00 | Discrete Mathematics for Computer Science | Use and development of precise formulations of mathematical ideas.                                                                                                                                                                                                                    |
+| LE/EECS 1022 3.00 | Programming for Mobile Computing          | A first exposure to object-oriented programming and enhances student understanding of key computing skills such as reasoning about algorithms, designing user interfaces, and working with software tools.                                                                            |
+| SC/MATH 1025 3.00 | Applied Linear Algebra                    | Topics include spherical and cylindrical coordinates in Euclidean 3-space, general matrix algebra, determinants, vector space concepts for Euclidean n-space (e.g. linear dependence and independence, basis, dimension, linear transformations etc.)                                 |
+| SC/MATH 1131 3.00 | Introduction to Statistics I              | Statistics is the science of data, and this course will introduce you to some of the basic, yet incredibly useful, statistical techniques.                                                                                                                                            |
+| SC/MATH 1300 3.00 | Differential Calculus with Applications   | Limits, derivatives with applications, antiderivatives, fundamental theorem of calculus, beginnings of integral calculus.                                                                                                                                                             |
+| SC/MATH 1310 3.00 | Integral Calculus with Applications       | The study of integral calculus begun in MATH 1300 is continued.                                                                                                                                                                                                                       |
+
 
 The length of time to complete the degree or diploma for the course:  
-* Here
+* This degree takes about 4 years. 
+* [Course Syllabus](https://lassonde.yorku.ca/eecs/academics/undergraduate/future-students/computer-security-bsc-ba/)
 
 ## Valuable experiential learning opportunities that make for a stronger job candidate
 
