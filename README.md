@@ -101,32 +101,34 @@ Cybersecurity projects
 
 ## Work Cited
 (_Images all open to free use_)  
-CDW. “Senior Cyber Security Analyst.” Google, 2023, https://www.google.com/search?q=senior%2Blevel%2Bjob%2Bdescription%2Bfor%2Bcyber%2Bsecurity%2Banalyst&amp;oq=entry%2Blevel%2Bjob%2Bdescription%2Bfor%2Bcyber%2Bsecurity%2Banalysty&amp;aqs=chrome..69i57.12779j0j1&amp;sourceid=chrome&amp;ie=UTF-8&amp;ibp=htl%3Bjobs&amp;sa=X&amp;ved=2ahUKEwik5qT375z9AhW-kYkEHa_oB18QudcGKAF6BAgcECA#fpstate=tldetail&amp;htivrt=jobs&amp;htidocid=O4EYSzp6RLYAAAAAAAAAAA%3D%3D.  
+CDW. “Senior Cyber Security Analyst.” *Google*, 2023, https://www.google.com/search?q=senior%2Blevel%2Bjob%2Bdescription%2Bfor%2Bcyber%2Bsecurity%2Banalyst&amp;oq=entry%2Blevel%2Bjob%2Bdescription%2Bfor%2Bcyber%2Bsecurity%2Banalysty&amp;aqs=chrome..69i57.12779j0j1&amp;sourceid=chrome&amp;ie=UTF-8&amp;ibp=htl%3Bjobs&amp;sa=X&amp;ved=2ahUKEwik5qT375z9AhW-kYkEHa_oB18QudcGKAF6BAgcECA#fpstate=tldetail&amp;htivrt=jobs&amp;htidocid=O4EYSzp6RLYAAAAAAAAAAA%3D%3D.  
 
-Coursera . “15 Essential Skills for Cybersecurity Analysts in 2023.” Coursera, 22 Dec. 2022, https://www.coursera.org/articles/cybersecurity-analyst-skills.  
+Coursera . “15 Essential Skills for Cybersecurity Analysts in 2023.” *Coursera*, 22 Dec. 2022, https://www.coursera.org/articles/cybersecurity-analyst-skills.  
 
-Coursera. “10 Popular Cybersecurity Certifications [2023 Updated].” Coursera, 22 Dec. 2022, https://www.coursera.org/articles/popular-cybersecurity-certifications.  
+Coursera. “10 Popular Cybersecurity Certifications [2023 Updated].” *Coursera*, 22 Dec. 2022, https://www.coursera.org/articles/popular-cybersecurity-certifications.  
 
-Cybersecurity Degrees. “A Comprehensive List of Cyber Security Competitions.” Cybersecurity Degrees, 22 May 2021, https://www.cybersecuritydegrees.com/faq/comprehensive-list-of-cyber-security-competitions/.  
+Cybersecurity Degrees. “A Comprehensive List of Cyber Security Competitions.” *Cybersecurity Degrees*, 22 May 2021, https://www.cybersecuritydegrees.com/faq/comprehensive-list-of-cyber-security-competitions/.  
 
-George Brown College . “Information Security Program.” George Brown College , 2022, https://coned.georgebrown.ca/courses-and-programs/information-security-program.  
+George Brown College . “Information Security Program.” *George Brown College* , 2022, https://coned.georgebrown.ca/courses-and-programs/information-security-program.  
 
-IBM. “Cybersecurity Penetration Tester Intern (X-Force Red) Summer 2023.” IBM, 9 Jan. 2023, https://careers.ibm.com/job/17606046/cybersecurity-penetration-tester-intern-x-force-red-summer-2023-remote/?codes=IBM_CareerWebSite.  
+IBM. “Cybersecurity Penetration Tester Intern (X-Force Red) Summer 2023.” *IBM*, 9 Jan. 2023, https://careers.ibm.com/job/17606046/cybersecurity-penetration-tester-intern-x-force-red-summer-2023-remote/?codes=IBM_CareerWebSite.  
 
-IBM. “Entry Level - Security Consultant.” Google, 1 Feb. 2023, https://www.google.com/search?q=cyber%2Bsecurity%2Bspecialist%2Bentry%2Blevel%2Bjobs&amp;ei=zVLqY5CWDuPKkPIPksKesAk&amp;oq=cyber%2Bsecurity%2Bspecialist%2Bentry%2Blevel%2B&amp;gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAxgBMgUIABCABDIFCAAQgAQyBggAEBYQHjIJCAAQFhAeEPEEMgkIABAWEB4Q8QQyCQgAEBYQHhDxBDIFCAAQhgMyBQgAEIYDOgoIABBHENYEELADOgcIABCwAxBDOgQIABBDSgQIQRgASgQIRhgAUIsJWNB1YNGFAWgBcAF4AIABfIgB-AWSAQM2LjKYAQCgAQHIAQnAAQE&amp;sclient=gws-wiz-serp&amp;ibp=htl%3Bjobs&amp;sa=X&amp;ved=2ahUKEwjzoNX445L9AhUiDEQIHQhpBcgQkd0GegQIDBAB#fpstate=tldetail&amp;htivrt=jobs&amp;htiq=cyber+security+specialist+entry+level+jobs&amp;htidocid=YZAQ2eb0inYAAAAAAAAAAA%3D%3D.  
+IBM. “Entry Level - Security Consultant.” *Google*, 1 Feb. 2023, https://www.google.com/search?q=cyber%2Bsecurity%2Bspecialist%2Bentry%2Blevel%2Bjobs&amp;ei=zVLqY5CWDuPKkPIPksKesAk&amp;oq=cyber%2Bsecurity%2Bspecialist%2Bentry%2Blevel%2B&amp;gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAxgBMgUIABCABDIFCAAQgAQyBggAEBYQHjIJCAAQFhAeEPEEMgkIABAWEB4Q8QQyCQgAEBYQHhDxBDIFCAAQhgMyBQgAEIYDOgoIABBHENYEELADOgcIABCwAxBDOgQIABBDSgQIQRgASgQIRhgAUIsJWNB1YNGFAWgBcAF4AIABfIgB-AWSAQM2LjKYAQCgAQHIAQnAAQE&amp;sclient=gws-wiz-serp&amp;ibp=htl%3Bjobs&amp;sa=X&amp;ved=2ahUKEwjzoNX445L9AhUiDEQIHQhpBcgQkd0GegQIDBAB#fpstate=tldetail&amp;htivrt=jobs&amp;htiq=cyber+security+specialist+entry+level+jobs&amp;htidocid=YZAQ2eb0inYAAAAAAAAAAA%3D%3D.  
 
-Microsoft. “Cyber Security Internship Jobs - Indeed.” Indeed, 2023, https://www.indeed.com/q-Cyber-Security-Internship-jobs.html.  
+Microsoft. “Cyber Security Internship Jobs - Indeed.” *Indeed*, 2023, https://www.indeed.com/q-Cyber-Security-Internship-jobs.html.  
 
-Ontario Universities Info. “Computer Security (BSC).” Ontario Universities Info, https://www.ontariouniversitiesinfo.ca/programs/1163.  
+Ontario Universities Info. “Computer Security (BSC).” *Ontario Universities Info*, https://www.ontariouniversitiesinfo.ca/programs/1163.  
 
-Polar Asset Management Partners Inc. “Cyber Security Analyst.” Google, 2023, https://www.google.com/search?q=entry%2Blevel%2Bjob%2Bdescription%2Bfor%2Bcyber%2Bsecurity%2Banalysty&amp;oq=entry%2Blevel%2Bjob%2Bdescription%2Bfor%2Bcyber%2Bsecurity%2Banalysty&amp;aqs=chrome..69i57.12779j0j1&amp;sourceid=chrome&amp;ie=UTF-8&amp;ibp=htl%3Bjobs&amp;sa=X&amp;ved=2ahUKEwik5qT375z9AhW-kYkEHa_oB18QudcGKAF6BAgcECA#htivrt=jobs&amp;htidocid=Q1_6Ou3cspYAAAAAAAAAAA%3D%3D&amp;fpstate=tldetail.  
+Polar Asset Management Partners Inc. “Cyber Security Analyst.” *Google*, 2023, https://www.google.com/search?q=entry%2Blevel%2Bjob%2Bdescription%2Bfor%2Bcyber%2Bsecurity%2Banalysty&amp;oq=entry%2Blevel%2Bjob%2Bdescription%2Bfor%2Bcyber%2Bsecurity%2Banalysty&amp;aqs=chrome..69i57.12779j0j1&amp;sourceid=chrome&amp;ie=UTF-8&amp;ibp=htl%3Bjobs&amp;sa=X&amp;ved=2ahUKEwik5qT375z9AhW-kYkEHa_oB18QudcGKAF6BAgcECA#htivrt=jobs&amp;htidocid=Q1_6Ou3cspYAAAAAAAAAAA%3D%3D&amp;fpstate=tldetail.  
 
-Simplilearn. “Top Cybersecurity Projects.” Simplilearn, 8 Feb. 2023, https://www.simplilearn.com/top-cyber-security-projects-article.  
+Simplilearn. “Top Cybersecurity Projects.” *Simplilearn*, 8 Feb. 2023, https://www.simplilearn.com/top-cyber-security-projects-article.  
 
-Sinha, Disha. “Top 10 Open Source Cybersecurity Projects to Try In 2022.” Analytics Insight, 31 Dec. 2021, https://www.analyticsinsight.net/top-10-open-source-cybersecurity-projects-to-try-in-2022/.  
+Sinha, Disha. “Top 10 Open Source Cybersecurity Projects to Try In 2022.” *Analytics Insight*, 31 Dec. 2021, https://www.analyticsinsight.net/top-10-open-source-cybersecurity-projects-to-try-in-2022/.  
 
-TD Bank. “IT Risk &amp; Cyber Security Specialist.” Google, 2023, https://www.google.com/search?q=cyber%2Bsecurity%2Bspecialist%2Bmid%2Blevel%2Bjobs&amp;ei=4FLqY_OwC6KYkPIPiNKVwAw&amp;uact=5&amp;oq=cyber%2Bsecurity%2Bspecialist%2Bmid%2Blevel%2Bjobs&amp;gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIICCEQoAEQwwQyCAghEKABEMMEOgoIABBHENYEELADOg0IABBHENYEEMkDELADOggIABCSAxCwA0oECEEYAEoECEYYAFCOBljRB2CcCWgCcAF4AIABY4gBmgKSAQEzmAEAoAEByAEJwAEB&amp;sclient=gws-wiz-serp&amp;ibp=htl%3Bjobs&amp;sa=X&amp;ved=2ahUKEwjAldCN5ZL9AhXSlGoFHZJOCL4QudcGKAF6BAgKECk#htivrt=jobs&amp;htidocid=2t2fj_2_9lUAAAAAAAAAAA%3D%3D&amp;fpstate=tldetail.  
+Sonoftroll. “Cyber Security.” *Open Clipart*, 17 Apr. 2019, https://www.openclipart.org/detail/318547/cyber-security. 
 
-US Tech Solutions. “Senior Cyber Security Manager.” Google, 10 Feb. 2023, https://www.google.com/search?q=cyber%2Bsecurity%2Bspecialist%2Bsenior%2B%2Blevel%2Bjobs&amp;ei=GFTqY8CpI9KpqtsPkp2h8As&amp;uact=5&amp;oq=cyber%2Bsecurity%2Bspecialist%2Bsenior%2B%2Blevel%2Bjobs&amp;gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIICCEQoAEQwwQ6CggAEEcQ1gQQsAM6DQgAEEcQ1gQQyQMQsAM6CAgAEJIDELADOgUIABCiBDoKCAAQ8QQQHhCiBDoKCCEQoAEQwwQQCkoECEEYAEoECEYYAFCDC1j0RGDLR2gEcAF4AIABYogBqQWSAQE4mAEAoAEByAEJwAEB&amp;sclient=gws-wiz-serp&amp;ibp=htl%3Bjobs&amp;sa=X&amp;ved=2ahUKEwiQ3a_55ZL9AhVQkmoFHfrNB4cQkd0GegQIEBAB#fpstate=tldetail&amp;htivrt=jobs&amp;htiq=cyber+security+specialist+senior++level+jobs&amp;htidocid=XI2SfGA2gkMAAAAAAAAAAA%3D%3D.  
+TD Bank. “IT Risk &amp; Cyber Security Specialist.” *Google*, 2023, https://www.google.com/search?q=cyber%2Bsecurity%2Bspecialist%2Bmid%2Blevel%2Bjobs&amp;ei=4FLqY_OwC6KYkPIPiNKVwAw&amp;uact=5&amp;oq=cyber%2Bsecurity%2Bspecialist%2Bmid%2Blevel%2Bjobs&amp;gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIICCEQoAEQwwQyCAghEKABEMMEOgoIABBHENYEELADOg0IABBHENYEEMkDELADOggIABCSAxCwA0oECEEYAEoECEYYAFCOBljRB2CcCWgCcAF4AIABY4gBmgKSAQEzmAEAoAEByAEJwAEB&amp;sclient=gws-wiz-serp&amp;ibp=htl%3Bjobs&amp;sa=X&amp;ved=2ahUKEwjAldCN5ZL9AhXSlGoFHZJOCL4QudcGKAF6BAgKECk#htivrt=jobs&amp;htidocid=2t2fj_2_9lUAAAAAAAAAAA%3D%3D&amp;fpstate=tldetail.  
 
-York University. “Computer Security (BSC, BA).” York University, 16 Feb. 2023, https://lassonde.yorku.ca/eecs/academics/undergraduate/future-students/computer-security-bsc-ba/. 
+US Tech Solutions. “Senior Cyber Security Manager.” *Google*, 10 Feb. 2023, https://www.google.com/search?q=cyber%2Bsecurity%2Bspecialist%2Bsenior%2B%2Blevel%2Bjobs&amp;ei=GFTqY8CpI9KpqtsPkp2h8As&amp;uact=5&amp;oq=cyber%2Bsecurity%2Bspecialist%2Bsenior%2B%2Blevel%2Bjobs&amp;gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIICCEQoAEQwwQ6CggAEEcQ1gQQsAM6DQgAEEcQ1gQQyQMQsAM6CAgAEJIDELADOgUIABCiBDoKCAAQ8QQQHhCiBDoKCCEQoAEQwwQQCkoECEEYAEoECEYYAFCDC1j0RGDLR2gEcAF4AIABYogBqQWSAQE4mAEAoAEByAEJwAEB&amp;sclient=gws-wiz-serp&amp;ibp=htl%3Bjobs&amp;sa=X&amp;ved=2ahUKEwiQ3a_55ZL9AhVQkmoFHfrNB4cQkd0GegQIEBAB#fpstate=tldetail&amp;htivrt=jobs&amp;htiq=cyber+security+specialist+senior++level+jobs&amp;htidocid=XI2SfGA2gkMAAAAAAAAAAA%3D%3D.  
+
+York University. “Computer Security (BSC, BA).” *York University*, 16 Feb. 2023, https://lassonde.yorku.ca/eecs/academics/undergraduate/future-students/computer-security-bsc-ba/. 
