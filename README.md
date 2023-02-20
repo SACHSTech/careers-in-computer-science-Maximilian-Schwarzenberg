@@ -73,6 +73,12 @@ The length of time to complete the degree or diploma for the course:
 * [Course Syllabus](https://lassonde.yorku.ca/eecs/academics/undergraduate/future-students/computer-security-bsc-ba/)
 
 ## Valuable experiential learning opportunities that make for a stronger job candidate
+Cybersecurity competitions
+* Competitions like National Cyber League and CyberPatriot 
+* Can help contestants gain real world knowledge with hands on scenarios about malware and ways around security systems and how to make them more secure. 
+
+Open source projects 
+* Putting in work to a project that has ties with cybersecurity can both boost personal skills and also shows potential employers that contributors have skills needed to thrive in the field.
 
 
 ## Work Cited
